@@ -1,0 +1,23 @@
+# Credit Card Fraud Detection & Risk Intelligence Suite
+# IBM Data Analytics Internship - A Rahul - VCET
+# Python 3.9 / 3.10 / 3.11 compatible
+
+# Frontend - Dark Glassmorphism Dashboard
+streamlit==1.32.0
+
+# Data Processing & Analysis
+pandas==2.2.1
+numpy==1.26.4
+
+# Machine Learning - Backend Engine
+scikit-learn==1.4.1
+imbalanced-learn==0.12.0
+
+# Visualization - BI 5-Level Hierarchy
+plotly==5.20.0
+
+# Model Persistence
+joblib==1.3.2
+
+# Documentation (for PDF report generation if needed)
+python-docx==1.1.0
